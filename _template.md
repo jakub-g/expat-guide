@@ -2,6 +2,14 @@ Expat guide to ${COUNTRY} like I'm five
 ===================================
 
 
+Cost of living and moving in
+============================
+
+How much money do I need when moving in?
+----------------------------------------
+
+Apartment rental costs
+----------------------
 
 Getting hired without knowing the language
 ==========================================

@@ -3,6 +3,31 @@ Expat guide to FRANCE like I'm five
 
 
 France might not be the hottest location for migrating when looking for an IT job, but it has its advantages.
+Mild climate, good quality of food, great sea and mountains, and one of the world's best health systems
+make it overally a good destination.
+
+
+Cost of living and moving in
+============================
+
+How much money do I need when moving in?
+----------------------------------------
+
+When you're single, generally at least 3x the amount you expect to pay for the apartment rental (1x for first-month advance payment, 1x for the deposit, and remaining 1x to live the first month), until you collect your first paycheck at the end of the first month.
+
+Apartment rental costs
+----------------------
+
+Côte d'Azur, regular small/medium flat in city center (20-50 sqm.): 500€-900€ for single, 700€-1200€ for a couple
+
+> *help us expand this section by adding more places!*
+
+See also:
+
+- https://www.expatistan.com/cost-of-living/paris
+- https://www.expatistan.com/cost-of-living/nice
+- http://www.pap.fr/
+- https://www.leboncoin.fr/locations/offres/
 
 
 Getting hired without knowing the language
