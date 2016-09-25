@@ -15,14 +15,15 @@ Each country is just a one file, with all the info described briefly, but with s
 basic details, sample data points etc., and with accompanying links for further reading.
 
 
-Dude, why is this just a GitHub repo?
-------------------------------------
+General resources for expats
+----------------------------
 
-- getting multiple countries in one place, side-by-side
-- ease of updating
-- power of crowdsourcing!
+- https://nomadlist.com/
+- https://www.expatistan.com/cost-of-living
+- http://www.expatica.com/
+- https://www.thelocal.com/
 
- 
+
 Contributing guide
 ------------------
 
@@ -38,7 +39,7 @@ Try to use some keywords (names of insitutions etc.) in the local language, to m
 
 **If you lived in some country as an expat, or you're a native who can contribute, we're looking for a pull request from you!**
 
-If you have some ideas that you wanted to discuss prior to opening a pull request, feel invited to do so!
+If you have some ideas that you wanted to discuss prior to opening a pull request, feel invited to do so by opening an issue!
 
 
 License
