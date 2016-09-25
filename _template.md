@@ -88,6 +88,10 @@ Apartment rental
 
 
 
+Internet and mobile
+===================
+
+
 Public transport
 ================
 

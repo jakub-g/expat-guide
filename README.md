@@ -33,11 +33,13 @@ The main idea is that ***each file should be written without any assumptions, an
 any major non-obvious things***, so that someone who never lived in a country can get a clear
 picture of the situation. Anything that you personally consider non-obvious after moving in is a good subject to cover!
 
-You're welcome to share personal observation from your experience. Whenever possible, try to include a link to relevant reading (if possible, in English, and/or to an official governmental website), but we're not Wikipedia (yet), so we won't put *[citation needed]* if there's no link.
+You're welcome and even encouraged to share personal observation from your own experience. Whenever possible, try to include a link to relevant reading (if possible, in English, and/or to an official governmental website), but we're not Wikipedia (yet), so we won't put *[citation needed]* if there's no link.
 
-Try to use some keywords (names of insitutions etc.) in the local language, to make it easier for the interested persons to find more data on the topic. 
+Try to use some keywords (names of institutions etc.) in the local language, to make it easier for the interested persons to find more data on the topic. 
 
-**If you lived in some country as an expat, or you're a native who can contribute, we're looking for a pull request from you!**
+If you want to add a new country, please start by copying `_template.md` file and filling some of the fields. If you add a new section to an existing country, please also update `_template.md`.
+
+**If you lived in some country as an expat, or you're a native who can contribute, we're looking for a pull request from you! Even small contributions are welcome!**
 
 If you have some ideas that you wanted to discuss prior to opening a pull request, feel invited to do so by opening an issue!
 
