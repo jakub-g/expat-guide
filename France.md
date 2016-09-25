@@ -296,10 +296,27 @@ See also:
 - https://www.expatistan.com/cost-of-living
 
 
+Internet and mobile
+===================
+
+As of 2016, you will pay about 60€/month for a package of ADSL internet (10-20 Mbps) + mobile internet (20-40 GB data plan) with unlimited local phone calls and SMS + TV via internet.
+
+**4G coverage** is becoming widespread in big cities. **Fiber optics** availability is not widespread yet, but there's a massive rollout planned for 2016-17. Ask your agency/landlord about the fixed line phone number of the apartment, to check online if fibre is available / coming soon in your place.  
+
+When you buy a mobile phone with a SIM lock of a carrier, the carrier is obliged by law to remove the SIM lock, free of charge, after 3 months. Check your carrier website how to *désimlocker* your phone.
+
+The main ISPs are Orange, SFR-Numericable and Bouygues. A relatively new player on the market is Free.fr, which has theoretically the most attractive offers, but in practice, there are numerous reports about mobile range issues, dropped calls, YouTube and Netflix being slow etc. so it's best to talk to some locals to get their advice which ISP is the best in the area.
+
+Links:
+
+- http://www.howtogeek.com/182905/how-peering-agreements-affect-netflix-youtube-and-the-entire-internet/
+- http://boutique.orange.fr/internet/offres-fibre
+- http://www.sfr.fr/box-internet/
+
 Public transport
 ================
 
-Due to ongoing labour law changes, France is subject to very frequent strikes of public transport (bus drivers, train drivers, airline/airport crews, air traffic controllers...) as well as taxi drivers raging against Uber. Brace yourself!
+Due to ongoing labour law changes, France is subject to very frequent strikes of public transport (bus drivers, tram drivers, train drivers, airline/airport crews, air traffic controllers...) as well as taxi drivers raging against Uber. Brace yourself!
 
 Links:
 
